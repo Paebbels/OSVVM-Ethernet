@@ -57,13 +57,13 @@ issue reports or pull requests.
 You can find the project [Authors here](AUTHORS.md) and
 [Contributors here](CONTRIBUTORS.md).
 
-### DpRam/src
-DpRam behavioral and verification components.
-Build these using DpRam/DpRam.pro script.  
+### Ethernet/src
+Ethernet behavioral and verification components.
+Build these using Ethernet/build.pro script.  
 
 
-### DpRam/testbench
-The testbench provides testbenches to verify the DpRam src components.
+### Ethernet/TestStandAlone
+The testbench provides testbenches to verify the Ethernet src components.
 
 ## More Information on OSVVM
 
